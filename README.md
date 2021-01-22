@@ -1,1 +1,3 @@
 # SimpleProjects
+Calculator
+Christmas tree
